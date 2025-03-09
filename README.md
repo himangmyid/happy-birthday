@@ -4,6 +4,12 @@ For your Love
 
 Webnyo lihat sini yah : [https://himangmyid.github.io/](https://himangmyid.github.io/happy-birthday/)
 
+<p align="center">
+  <a href="https://github.com/himangmyid/happy-birthday">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=himangmyid&repo=happy-birthday&theme=tokyonight" alt="GitHub Repo Card">
+  </a>
+</p>
+
 
 ## Script HTML CCS selamt Ulang Tahun Simple Download Saja
 
